@@ -169,6 +169,48 @@ a{
     border: 1px solid #000
 }
 
+#intro{
+	margin: 50px 0;
+}
+
+.post h3{
+	color: #0099ff;
+}
+
+.post p{
+	color: #666666;
+}
+
+#contact_us_today{
+	margin-bottom: 50px;
+}
+
+.contact_us{
+	height: 120px;
+	border-left: 10px solid #0099ff;
+	background: #e0e0e0;
+}
+
+.contact_messege{
+	padding: 5px;
+	margin-left: 10px;
+}
+
+.contact_messege h1{
+	font-size: 40px;
+}
+
+.contact_messege h5{
+	font-size: 20px;
+}
+
+.big_button{
+	margin-top: 35px;
+}
+
+.big_button .btn{
+	font-size: 28px;
+}
 
 
 
