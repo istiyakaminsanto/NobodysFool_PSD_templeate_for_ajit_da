@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
+	font-family: georgia;
 }
 
 a{
@@ -70,5 +71,54 @@ a{
 .circle:hover{
 	background: #db4a39;
 }
+
+.nav_area{
+	font-size: 20px;
+	color: #2e2e2e;
+	text-transform: uppercase;
+	font-family: georgia;
+}
+
+.nav_area ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+
+}
+
+.nav_area ul li{
+	float: left;
+	padding: 10px;
+	color: #fff;
+}
+
+.nav_area li a{
+	color: #2e2e2e;
+	text-decoration: none;
+}
+
+.nav_area li a:hover{
+	color: #9f9f9f;
+	border-bottom: 3px solid #0099ff;
+	padding: 10px;
+}
+
+.logo_area p{
+	color: #999999;
+}
+
+.search_area{
+	margin-top: 50px;
+	float: right;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0099ff;
+    text-transform: uppercase;
+}
+
+
 
 
